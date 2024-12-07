@@ -1,3 +1,5 @@
+Игра Бойцы Онлайн с чатом OpenChatPhp
+
 Установка
 1) Закачайте файлы на сервер
 2) Отредактируйте chat/conf/Class_Connect.php и ./config.php
